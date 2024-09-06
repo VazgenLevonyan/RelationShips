@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars42">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/xalan/serializer/jars/serializer-2.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/xalan/serializer/jars/serializer-2.7.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/xalan/serializer/jars/serializer-2.7.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

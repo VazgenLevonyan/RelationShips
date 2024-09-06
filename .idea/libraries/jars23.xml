@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars23">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.plexus/plexus-interpolation/jars/plexus-interpolation-1.21-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.plexus/plexus-interpolation/jars/plexus-interpolation-1.21-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.plexus/plexus-interpolation/jars/plexus-interpolation-1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grails-datastore-core-3.1.5.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.grails/grails-datastore-core/jars/grails-datastore-core-3.1.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

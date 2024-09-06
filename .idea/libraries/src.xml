@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-wrapper-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-logging-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-datastore-simple-3.1.5.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-gsp-taglib-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-encoder-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-datastore-gorm-3.1.5.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-controllers-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-validation-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-mvc-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-scripts-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-docs-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-datasource-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-url-mappings-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-jsp-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-i18n-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-mimetypes-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-resources-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-core-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-databinding-spring-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-domain-class-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-common-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-converters-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-servlets-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-testing-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-validation-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-async-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-databinding-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-filters-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-fileupload-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-gsp-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-codecs-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-databinding-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-test-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-services-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-rest-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-bootstrap-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-datastore-core-3.1.5.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-aether-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-sitemesh-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-spring-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-url-mappings-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-log4j-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-project-api-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-web-gsp-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-databinding-2.5.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/src/grails-plugin-async-2.5.6-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

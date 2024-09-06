@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.eclipse.aether/aether-api/jars/aether-api-1.0.2.v20150114-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.eclipse.aether/aether-api/jars/aether-api-1.0.2.v20150114.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.eclipse.aether/aether-api/jars/aether-api-1.0.2.v20150114-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

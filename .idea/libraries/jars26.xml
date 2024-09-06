@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars26">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.21.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.21-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.21-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

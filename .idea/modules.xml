@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Relationships.iml" filepath="$PROJECT_DIR$/Relationships.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relationships-grailsPlugins.iml" filepath="$PROJECT_DIR$/Relationships-grailsPlugins.iml" />
+      <module fileurl="file://$USER_HOME$/.sdkman/candidates/grails/current/src/grails/templates/templates.iml" filepath="$USER_HOME$/.sdkman/candidates/grails/current/src/grails/templates/templates.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars66">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.jsr166-mirror/jsr166y/jars/jsr166y-1.7.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.jsr166-mirror/jsr166y/jars/jsr166y-1.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.jsr166-mirror/jsr166y/jars/jsr166y-1.7.0-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

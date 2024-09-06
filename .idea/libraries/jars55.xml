@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars55">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.gpars/gpars/jars/gpars-1.2.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.gpars/gpars/jars/gpars-1.2.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.gpars/gpars/jars/gpars-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

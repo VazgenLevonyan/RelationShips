@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars56">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/spring-expression/jars/spring-expression-4.1.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/spring-expression/jars/spring-expression-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/spring-expression/jars/spring-expression-4.1.9.RELEASE-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

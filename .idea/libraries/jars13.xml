@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.grails/grails-gdoc-engine/jars/grails-gdoc-engine-1.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.grails/grails-gdoc-engine/jars/grails-gdoc-engine-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.grails/grails-gdoc-engine/jars/grails-gdoc-engine-1.0.1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

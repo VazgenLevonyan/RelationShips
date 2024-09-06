@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/springloaded/jars/springloaded-1.2.7.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/springloaded/jars/springloaded-1.2.7.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/springloaded/jars/springloaded-1.2.7.RELEASE-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

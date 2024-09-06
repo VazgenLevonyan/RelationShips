@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaee-web-api-6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/javax/javaee-web-api/jars/javaee-web-api-6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

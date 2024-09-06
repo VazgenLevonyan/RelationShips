@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="objenesis-1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.objenesis/objenesis/jars/objenesis-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

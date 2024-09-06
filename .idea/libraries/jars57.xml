@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars57">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.plexus/plexus-utils/jars/plexus-utils-3.0.20-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.plexus/plexus-utils/jars/plexus-utils-3.0.20.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.codehaus.plexus/plexus-utils/jars/plexus-utils-3.0.20-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

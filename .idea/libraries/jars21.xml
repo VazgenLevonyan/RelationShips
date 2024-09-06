@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/log4j/log4j/jars/log4j-1.2.17-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/log4j/log4j/jars/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/log4j/log4j/jars/log4j-1.2.17-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

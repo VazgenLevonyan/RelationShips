@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.httpcomponents/httpcore/jars/httpcore-4.2.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.httpcomponents/httpcore/jars/httpcore-4.2.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.httpcomponents/httpcore/jars/httpcore-4.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

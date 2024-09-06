@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars59">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.tomcat/tomcat-jdbc/jars/tomcat-jdbc-7.0.70.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.tomcat/tomcat-jdbc/jars/tomcat-jdbc-7.0.70-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

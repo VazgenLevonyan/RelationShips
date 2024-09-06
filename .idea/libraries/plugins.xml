@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/jquery-1.11.1.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/cache-1.1.8.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/scaffolding-2.1.2.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/webxml-1.4.1.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/database-migration-1.4.0.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/tomcat-7.0.55.2.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/asset-pipeline-2.5.7.zip!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/plugins/hibernate4-4.3.10.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

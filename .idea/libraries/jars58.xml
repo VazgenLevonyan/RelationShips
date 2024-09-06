@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars58">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/commons-cli/commons-cli/jars/commons-cli-1.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/commons-cli/commons-cli/jars/commons-cli-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/commons-cli/commons-cli/jars/commons-cli-1.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

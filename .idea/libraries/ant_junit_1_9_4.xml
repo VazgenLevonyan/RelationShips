@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ant-junit-1.9.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.ant/ant-junit/jars/ant-junit-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

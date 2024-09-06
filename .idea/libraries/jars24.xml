@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars24">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/spring-test/jars/spring-test-4.1.9.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/spring-test/jars/spring-test-4.1.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.springframework/spring-test/jars/spring-test-4.1.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

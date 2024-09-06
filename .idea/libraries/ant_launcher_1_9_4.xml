@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ant-launcher-1.9.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.apache.ant/ant-launcher/jars/ant-launcher-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

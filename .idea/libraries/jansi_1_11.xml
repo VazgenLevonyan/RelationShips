@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jansi-1.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/grails/current/lib/org.fusesource.jansi/jansi/jars/jansi-1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
